@@ -29,8 +29,8 @@ B2B Social posts and activities, ad libraries, Maps, funding, traffic, and LLM e
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/waterfall-dark.svg">
-    <img width="900" alt="Terminal recording. A RichAPI email-finder call falls through provider one (412ms, no data) to provider two (291ms, hit), returns john.doe@acme.com and bills 5 credits. A second call tries both providers, finds nothing, and bills 0 credits." src="assets/waterfall-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/waterfall-dark.svg">
+    <img width="900" alt="Terminal recording. A RichAPI email-finder call falls through provider one (412ms, no data) to provider two (291ms, hit), returns john.doe@acme.com and bills 5 credits. A second call tries both providers, finds nothing, and bills 0 credits." src="/assets/waterfall-light.svg">
   </picture>
 </p>
 
